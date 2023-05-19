@@ -1,3 +1,5 @@
+//A.Furkan ADAR
+//200316012
 import java.util.LinkedList;
 
 public class question1{
