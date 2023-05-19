@@ -1,4 +1,4 @@
-<h2>A.Furkan ADAR<h2>
-<h1>Homework2<h1>
-200316012
-Homework2/LinkList
+<h1>A.Furkan ADAR<h1>
+<h2>200316012<h2>
+<h2>Homework2/LinkedList<h2>
+
